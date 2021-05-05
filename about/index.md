@@ -9,3 +9,5 @@ subclass: 'post page'
 ---
 
 이 곳은 About 페이지 입니다.
+
+빌드 및 배포 자동화!
