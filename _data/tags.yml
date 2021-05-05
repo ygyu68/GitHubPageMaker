@@ -1,0 +1,16 @@
+r :
+  name: r
+  description: False
+  cover: assets/built/images/texture.jpg
+python :
+  name: python
+  description: False
+  cover: assets/built/images/texture.jpg
+statistics :
+  name: statistics
+  description: False
+  cover: assets/built/images/texture.jpg
+#  r1 :
+#  name: R1
+#  description: False
+#  cover: assets/built/images/blog-cover.jpg
