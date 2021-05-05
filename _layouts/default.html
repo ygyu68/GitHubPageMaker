@@ -96,7 +96,7 @@
                  src="{{ site.baseurl }}{{ site.logo }}"
                  alt="{{ site.title }}" />
             {% endif %}
-            <h1 class="subscribe-overlay-title">Search by Keyword <!--(추가) 개인적으로 없앰    {{ site.title }}--></h1>
+            <h1 class="subscribe-overlay-title">Search by Keyword <!--(추가) 개인적으로 없앰 {{ site.title }}--></h1>
             <p class="subscribe-overlay-description">
                 <!-- lunr.js를 이용한 posts 검색--> 키워드를 입력하세요 </p>
             {% include subscribe-form.html placeholder="keyword" %}
@@ -104,7 +104,8 @@
     </div>
     {% endif %}
 
-    <!-- (추가) 댓글기능 -->
+    <!-- (추가) 댓글기능 아마 이거 아닌듯 -->
+    <!--
     <div id="disqus_thread"></div>
     <script>
         /**
@@ -124,7 +125,7 @@
         })();
     </script>
     <noscript>Please enable JavaScript to view the <a href="https://disqus.com/?ref_noscript">comments powered by Disqus.</a></noscript>
-
+    -->
     <!-- highlight.js -->
     <script src="https://cdnjs.cloudflare.com/ajax/libs/prism/1.10.0/components/prism-abap.min.js"></script>
     <script>$(document).ready(function() {

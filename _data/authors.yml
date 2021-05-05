@@ -6,6 +6,6 @@ ygyu68 :
   bio: <a href="https://www.youtube.com/channel/UCtX0b7GBEWS-jVnnTUNWUzg">Gyuseok Hwang</a>
   # 회사정보
   picture: assets/built/images/john.jpg   # author image
-  facebook:    xbvc6682@naver.com         # facebook ID
+  facebook:             # facebook ID
   twitter:              # twitter ID
   cover: False
