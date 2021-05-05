@@ -57,13 +57,13 @@ cover: assets/built/images/texture.jpg
 logo:
 logo_dark:
 
-favicon: assets/built/images/favicon.jpg
+favicon: assets/built/images/favicon.png
 # favicon으로 사용할 image
 
 production_url: https://ygyu68.github.io/
 # 최종적으로 blog가 운영될 url
 
-source_url: https://github.com/moon9342/GitHubPageMaker/
+source_url: https://github.com/ygyu68/GitHubPageMaker/
 # blogmaker(jekyll source folder)에 대한 github repository
 
 # Social info
@@ -110,7 +110,7 @@ feed:
 safe: False
 lsi: False
 
-username: moon9342
+username: ygyu68
 repo: GitHubPageMaker
 # username : travis-ci와 연동하는 github의 username
 # repo: travis-ci와 연동하는 github의 repository이름
@@ -121,7 +121,7 @@ branch: master
 
 relative_source:
 
-destination: ../[GitHubPage2]/
+destination: ./output/
 # compile된 결과가 생성되는 폴더
 # 이 폴더안의 내용이 우리가 운영하는 블로그 내용이 컴파일되서 들어간다.
 # 이 폴더안의 내용을 github repository(https://username.github.io)에 push
