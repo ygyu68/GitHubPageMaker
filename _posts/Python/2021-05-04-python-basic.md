@@ -3,7 +3,7 @@ layout: post
 current: post
 cover:  assets/built/images/developer.jpg
 navigation: True
-title: Python 강좌(1) - Python 기본
+title: 백준 1427번 소트인사이드 (파이썬)
 date: 2021-05-04 16:40:00
 tags: [python]
 class: post-template
@@ -12,11 +12,23 @@ author: ygyu68
 ---
 {% include python-table-of-contents.html %}
 
-이 글은 R 관련 첫 포스팅 입니다.
+![](..\assets\built\images\baek1427.JPG)
 
-~~~javascript
-function syntaxHighlight(code) {
-   var foo = 'Hello World';
-   var bar = 100;
-}
-~~~
+>**문제**
+
+배열을 정렬하는 것은 쉽다. 수가 주어지면, 그 수의 각 자리수를 내림차순으로 정렬해보자.
+
+>**입력**  
+
+첫째 줄에 정렬하고자 하는 수 N이 주어진다. N은 1,000,000,000보다 작거나 같은 자연수이다.
+
+>**출력**
+
+첫째 줄에 자리수를 내림차순으로 정렬한 수를 출력한다.
+
+---
+**<span style="color:red">풀이</span>**
+<script src="https://gist.github.com/ygyu68/0dbbfb448bb1cda237685ba2b6a32e7f.js"></script>
+
+**<span style="color:red">주의사항</span>**
+없음
