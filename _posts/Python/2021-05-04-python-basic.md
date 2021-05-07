@@ -31,4 +31,3 @@ author: ygyu68
 <script src="https://gist.github.com/ygyu68/0dbbfb448bb1cda237685ba2b6a32e7f.js"></script>
 
 **<span style="color:red">주의사항</span>**
-없음
