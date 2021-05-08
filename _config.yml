@@ -48,7 +48,7 @@ baseurl: /
 title: Being a Data Scientist
 # 자신의 blog title.
 
-description: R / Python
+description: 기계공학과 학생의 데이터 과학 공부 일지
 # blog home에 표시될 blog에 대한 전반적인 설명.
 
 cover: assets/built/images/texture.jpg

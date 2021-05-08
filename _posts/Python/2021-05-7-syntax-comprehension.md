@@ -10,7 +10,7 @@ class: post-template
 subclass: 'post tag-python'
 author: ygyu68
 ---
-{% include python-syntax-table-of-contents.html %}
+{% include python-table-of-contents.html %}
 # 내포함수
 
 파이썬에서는 각종 <span style="color:red">내포함수</span>를 사용할 수 있다. 예를 들어,

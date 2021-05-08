@@ -10,7 +10,7 @@ statistics :
   name: statistics
   description: False
   cover: assets/built/images/texture.jpg
-#  r1 :
-#  name: R1
-#  description: False
-#  cover: assets/built/images/blog-cover.jpg
+baekjoon :
+  name: baekjoon
+  description: False
+  cover: assets/built/images/texture.jpg
