@@ -87,7 +87,7 @@ ol.table-of-contents-list li:last-child {
 
 ul.table-of-contents-list li:before,
 ol.table-of-contents-list li:before {
-    content: '\f14d';
+    content: '\f0da'; /* post 목차 앞에 폰트 어썸 기호 바꾸는 곳*/
     display: inline-block;
     margin: 0 2px 0 4px;
     line-height: 1;
